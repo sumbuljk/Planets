@@ -1,5 +1,5 @@
 Mars is a great movies & the red planet!
 
-T=It is the fourth planet 
+It is the fourth planet 
 
-
+Mars is dry and hot
